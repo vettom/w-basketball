@@ -8,13 +8,23 @@ Pick-N-Roll vs Screen Role are two ways of achieving 2-on-1 situations. Though s
 Difference is in the player movement. In a Screen-roll, Shooter moves ahead of defender coming to pick. In Pick-N-Roll, Shooter moves  in the direction of the pick.
 
 #### Screen Roll
-Shooter pose a threat by preparing to shoot. Defender moves out to stop the shot. Shooter moves ahead of defender, blocking the defender. Point Guard/Pick ensures defender cannot return to position and moves in opposite direction. This is very natural movement and easier to pull off. In this scenario, Shooter is often closer to Pick and gap not wide enough for defender to get through.
+Shooter positions behind Pick far enough away to ensure Defender jumping will pass the Pick. Shooter prepares to take shot. Defender moves out to stop the shot. Shooter **moves ahead of defender, blocking the defender**. Point Guard/Pick ensures defender cannot return to position and moves in opposite direction. This is very natural movement and easier to pull off. In this scenario, Shooter is often closer to Pick and gap not wide enough for defender to get through.
 
 ### Pick-n-Roll
-Often executed when gap between Pick and Shooter is wider. Shooter prepares to take shot. Defender moves out to shop the shot. Pick moves out and sets up a pick. Shooter moves in the direction of the pick. Pick moves in opposite direction ensuring to keep defender behind them. 
+Shooter position away from Pick, usually around 3 point line. Shooter prepares to take shot. Defender moves out to shop the shot. Pick moves out and sets up a pick. Shooter moves in the **direction of the pick**. Pick moves in opposite direction ensuring to keep defender behind them. 
 
-### Stages
+# Advantages of Screen-Roll
+- Shooter positions behind the screen, increasing chance of making shot
+- Natural for Shooter to move away from Defender
+- Easier and natural for pick to block Defender 
+- Less space for Defender to escape
+
+	
+Both above techniques are setting up a trap. You want them to fall in the trap and have to do everything possible to encourage them to fall in the trap.  There are 4 stages in preparing and executing this move.
+
 1. Plan and Prepare
 2. Set up 
 3. Trigger
 4. Finish/Basket
+
+# Screen Roll
