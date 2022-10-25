@@ -1,2 +1,0 @@
-# Pick n Roll
-Shooter position away from Pick, usually around 3 point line. Shooter prepares to take shot. Defender moves out to shop the shot. Pick moves out and sets up a pick. Shooter moves in the ***direction of the pick***. Pick moves in opposite direction ensuring to keep defender behind them. 
