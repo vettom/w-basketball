@@ -1,7 +1,16 @@
 * {
   box-sizing: border-box;
 }
-
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
 body {
   font-family: Arial;
   padding: 5px;
