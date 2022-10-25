@@ -92,7 +92,7 @@ body {
   text-align: center;
   color: #fff;
   background: #000;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
