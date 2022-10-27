@@ -90,9 +90,10 @@ body {
 .footer {
   padding: 10px;
   text-align: center;
-  color: #fff;
+  color: #ccc;
   background: #000;
   margin-top: 10px;
+
 }
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
